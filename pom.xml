@@ -23,13 +23,6 @@
 		<developerConnection>scm:git:ssh://apachemycat@github.com/MyCATApache/Mycat-Server.git</developerConnection>
 		<url>scm:git:ssh://apachemycat@github.com/MyCATApache/Mycat-Server.git</url>
 	</scm>
-	<repositories>
-		<repository>
-			<id>nexus</id>
-			<name>local private nexus</name>
-			<url>http://nexus.mycat.io/content/groups/public</url>
-		</repository>
-	</repositories>
 	<distributionManagement>
 		<repository>
 			<id>releases</id>
